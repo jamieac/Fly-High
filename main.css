@@ -1,0 +1,14 @@
+/* MonarchA300 feel free to edit, comment, or clean up this CSS.  just need some code now. */
+
+.header
+{
+background: linear-gradient(180deg, #FF8000, #FF4B00);
+background: -webkit-linear-gradient(180deg, #FF8000, #FF4B00);
+background: -o-linear-gradient(180deg, #FF8000, #FF4B00);
+background: -moz-linear-gradient(180deg, #FF8000, #FF4B00);
+}
+
+.logo_container
+{
+display:block;
+}
