@@ -13,11 +13,14 @@
 <div class="header">
 <div class="logo-container">
 <a href="home.php">
-<img src="http://i.imgur.com/R0Aer4v.png" alt="Logo">
+<img src="http://imgur.com/C0nMtiC.png" alt="Logo">
 </a>
 </div>
 
 </div>
+
+
+
 
 
 
