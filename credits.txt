@@ -1,9 +1,10 @@
 The following people have helped out a ton with the project:
 
 
-dbd (AirPenn)   :  Core Development
-ncairlines      :  Design, Project Manager
-weston          :  Design
-sufi            :  Logo
-edytexas        :  Logo
-Forum Community : all the ideas!
+dbd (AirPenn)                  :   Core Development (lead)
+dasa2                          :   Core Development 
+ncairlines (americarocks)      :   Design, Project Manager
+weston                         :   Design
+sufi  (skyguy)                 :   Logo
+edytexas                       :   Logo
+Forum Community                :   all the ideas!
