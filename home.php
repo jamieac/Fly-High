@@ -11,7 +11,8 @@
 </head>
 <body>
 <div class="header">
-<div class="logo-container">
+
+<div class="logo-container" colspan="3">
 <a href="home.php">
 <img src="http://imgur.com/C0nMtiC.png" alt="Logo">
 </a>
