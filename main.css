@@ -1,14 +1,34 @@
 /* MonarchA300 feel free to edit, comment, or clean up this CSS.  just need some code now. */
 
-.header
+body
 {
-background: linear-gradient(180deg, #FF8000, #FF4B00);
-background: -webkit-linear-gradient(180deg, #FF8000, #FF4B00);
-background: -o-linear-gradient(180deg, #FF8000, #FF4B00);
-background: -moz-linear-gradient(180deg, #FF8000, #FF4B00);
+background-color:#DFDFDF;
+}
+
+.header
+
+{
+
+background: linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -webkit-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -o-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -moz-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+border:3px solid;
+border-color:#F24A02;
+border-radius:10px;
+padding:5px;
+width:auto;
+height:254px;
 }
 
 .logo_container
+
 {
+
 display:block;
+
 }
