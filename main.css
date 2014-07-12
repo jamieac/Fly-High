@@ -1,4 +1,4 @@
-/* MonarchA300 feel free to edit, comment, or clean up this CSS.  just need some code now. */
+/* MonarchA300 feel free to edit, comment, or clean up this CSS.  just needed some on-the-fly code. */
 
 body
 {
@@ -25,17 +25,92 @@ width:auto;
 height:254px;
 }
 
-.logo_container
+.logo-container
 
 {
 
 display:block;
 
 float:left;
+width:523px;
+height:235px;
 }
+
 
 .hdr-tbl
 {
+column-count:4;
+-webkit-column-count:4;
+-moz-column-count:4;
+float:left;
+text-align:center;
+}
+
+.motto
+{
+text-align:center;
+font-size:32px;
+color:#404040;
+font-family:verdana,geneva;
+font-weight:900;
+}
+
+.spacer-50
+{
+height:50px;
 width:auto;
-height:auto;
+}
+
+.spacer-25
+{
+height:25px;
+width:auto;
+}
+
+a:hover
+{
+color:#DFDFDF;
+font-weight:900;
+text-decoration:none;
+}
+
+a:active
+{
+color:#DFDFDF;
+font-weight:900;
+text-decoration:none;
+}
+
+a:link
+{
+color:#244C1B;
+font-weight:900;
+text-decoration:none;
+}
+
+a:visited
+{
+color:#244C1B;
+font-weight:900;
+text-decoration:none;
+}
+
+a:-webkit-any-link
+{
+color:#244C1B;
+font-weight:900;
+text-decoration:none;
+}
+
+.hdr-lnks
+{
+font-family:georgia;
+font-size:22px;
+}
+
+.hdr-scrlbr
+{
+font-family:'Courier New', Courier, monospace;
+font-size:18px;
+color:#DFDFDF;
 }
