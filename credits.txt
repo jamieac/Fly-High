@@ -3,6 +3,7 @@ The following people have helped out a ton with the project:
 
 dbd (AirPenn)                  :   Core Development (lead)
 dasa2                          :   Core Development 
+monarchA300                    :   Core Development
 ncairlines (americarocks)      :   Design, Project Manager
 weston                         :   Design
 sufi  (skyguy)                 :   Logo
