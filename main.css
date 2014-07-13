@@ -1,5 +1,3 @@
-/* MonarchA300 feel free to edit, comment, or clean up this CSS.  just needed some on-the-fly code. */
-
 body
 {
 background-color:#DFDFDF;
@@ -67,6 +65,12 @@ height:25px;
 width:auto;
 }
 
+.spacer-10
+{
+height:10px;
+width:auto;
+}
+
 a:hover
 {
 color:#DFDFDF;
@@ -113,4 +117,76 @@ font-size:22px;
 font-family:'Courier New', Courier, monospace;
 font-size:18px;
 color:#DFDFDF;
+}
+
+.body
+{
+width:auto;
+height:auto;
+}
+
+.lft-sdbr
+{
+background: linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -webkit-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -o-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -moz-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+float:left;
+width:100px;
+height:350px;
+border:3px solid;
+border-color:#F24A02;
+border-radius:10px;
+text-align:center;
+}
+
+.rgt-sdbr
+{
+background: linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -webkit-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -o-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+background: -moz-linear-gradient(-90deg, #FF8000, #FF4B00);
+
+float:right;
+width:100px;
+height:350px;
+border:3px solid;
+border-color:#F24A02;
+border-radius:10px;
+text-align:center;
+}
+
+.sdbr-txt
+{
+font-size:18px;
+font-weight:900;
+}
+
+.lgn-bx
+{
+background-color:#404040;
+display:inline-block;
+width:900px;
+height:30px;
+margin-left:10px;
+margin-right:10px;
+padding-left:95px;
+padding-right:95px;
+padding-bottom:10px;
+border:3px solid #404040;
+border-radius:10px;
+float:left;
+}
+
+.lgn-bx-txt
+{
+color:#DFDFDF;
+float:left;
 }
